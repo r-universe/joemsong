@@ -1,40 +1,25 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "CircularSilhouette"]
 	path = CircularSilhouette
 	url = https://github.com/cran/CircularSilhouette
-	shallow = true
-	registered = true
 [submodule "Ckmeans.1d.dp"]
 	path = Ckmeans.1d.dp
 	url = https://github.com/cran/Ckmeans.1d.dp
-	shallow = true
-	registered = true
 [submodule "DiffXTables"]
 	path = DiffXTables
 	url = https://github.com/cran/DiffXTables
-	shallow = true
-	registered = true
 [submodule "FunChisq"]
 	path = FunChisq
 	url = https://github.com/cran/FunChisq
-	shallow = true
-	registered = true
 [submodule "GridOnClusters"]
 	path = GridOnClusters
 	url = https://github.com/cran/GridOnClusters
-	shallow = true
-	registered = true
 [submodule "OptCirClust"]
 	path = OptCirClust
 	url = https://github.com/cran/OptCirClust
-	shallow = true
-	registered = true
 [submodule "TreeDimensionTest"]
 	path = TreeDimensionTest
 	url = https://github.com/cran/TreeDimensionTest
-	shallow = true
-	registered = true
