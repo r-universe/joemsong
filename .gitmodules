@@ -14,9 +14,6 @@
 [submodule "FunChisq"]
 	path = FunChisq
 	url = https://github.com/cran/FunChisq
-[submodule "GridOnClusters"]
-	path = GridOnClusters
-	url = https://github.com/cran/GridOnClusters
 [submodule "OptCirClust"]
 	path = OptCirClust
 	url = https://github.com/cran/OptCirClust
