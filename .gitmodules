@@ -17,6 +17,3 @@
 [submodule "OptCirClust"]
 	path = OptCirClust
 	url = https://github.com/cran/OptCirClust
-[submodule "TreeDimensionTest"]
-	path = TreeDimensionTest
-	url = https://github.com/cran/TreeDimensionTest
